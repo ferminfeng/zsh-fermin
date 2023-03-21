@@ -44,3 +44,13 @@ zsh-syntax-highlighting
 
 3. delete plugins related in `~/.zshrc`
 
+
+```
+Warning: plugin zsh-syntax-highlighting not found #7688
+https://github.com/ohmyzsh/ohmyzsh/issues/7688
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+
+```
