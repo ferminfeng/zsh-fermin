@@ -1,0 +1,2 @@
+# zsh-fermin
+zsh
