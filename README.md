@@ -13,7 +13,7 @@ I tried to write another config for zsh.  See [zsh-sen](https://github.com/fermi
 
 2. cd to your-dir
 
-3. `git clone git://github.com/ferminfeng/zsh-fermin.git`
+3. `git clone git@github.com:ferminfeng/zsh-fermin.git`
 
 4. `cd zsh-fermin`
 
